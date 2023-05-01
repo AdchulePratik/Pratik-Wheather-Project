@@ -1,0 +1,44 @@
+nav{
+  height: 60px;
+  background-color: black;
+}
+
+a{
+  font-size: 40px;
+  color: red;
+  text-decoration: none;
+  box-shadow: darkturquoise;
+
+}
+
+a:hover{
+  font-size: 40px;
+  color: whitesmoke;
+  text-decoration: none;
+}
+
+.image{
+  background-image: url('~/src/assets/images/wheather forecast.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
+
+.image:hover{
+  background-image: url('~/src/assets/images/city thunderstrom.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
+
+.container{
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: blue;
+  font-size: 30px;
+
+
+}

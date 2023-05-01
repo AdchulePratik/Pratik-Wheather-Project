@@ -1,0 +1,65 @@
+.box{
+input {
+  height: 30px;
+  width: 200px;
+  font-size: 20px;
+  border-radius: 20px;
+  text-align: center;
+  margin: 0px 10px;
+  padding: 10px 90px;
+}
+
+}
+
+.box {
+  input:hover{
+    height: 40px;
+    width: 300px;
+    font-size: 20px;
+    border-radius: 10px;
+    // margin: 10px 50px;
+    // padding: 10px 80px;
+    background-color: black;
+    color: deeppink;
+
+  }
+
+}
+
+
+.btn{
+  background-color: black;
+  color: brown;
+  margin: 10px 150px;
+}
+
+.btn:hover{
+  background-color: black;
+  color: brown;
+
+}
+
+.p-cls{
+color:darkblue;
+margin: 0px 10px;
+font-size: 20px;
+}
+
+.p-cls:hover{
+ color:dodgerblue;
+ background-color: black;
+}
+
+.main{
+  color: black;
+  font-size: medium;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.main:hover{
+  color:cyan;
+  font-size: medium;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
